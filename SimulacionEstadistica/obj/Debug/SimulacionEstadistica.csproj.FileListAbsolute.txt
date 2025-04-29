@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\bin\Debug\SimulacionEstadistica.exe.config
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\bin\Debug\SimulacionEstadistica.exe
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\bin\Debug\SimulacionEstadistica.pdb
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.Form1.resources
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.Properties.Resources.resources
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.exe
+C:\Users\Asus\source\repos\SimulacionEstadistica\SimulacionEstadistica\obj\Debug\SimulacionEstadistica.pdb
